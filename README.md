@@ -1,11 +1,9 @@
 # Gtrace
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 SHA256 gtrace.exe : 578bf0b808cd926e337edabab5d28af1cde895a6b883e2c246c5af201fb1254b
 SHA256 gtrace-1.0-11.30.zip: f78f56caa102c2f57e17c546625450eb15ce87a428b8d0ffade3026f56b17bdb
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-## The program looks for the difference (Diff) between two traces
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+## The program looks for the difference (Diff) between two traces
 
     ![Traces should be identical to each other]!
 
