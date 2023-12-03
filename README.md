@@ -1,4 +1,5 @@
 # Gtrace
+![Gif not exist](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXEzZ3JvdzVsZHB2cnd0cmNmbWZtZHUya3d0dDRsOWEzcGR6czhkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PiHNMCGBhbCisnCBRQ/giphy.gif)
 ## The program looks for the difference (Diff) between two traces
 
     ![Traces should be identical to each other]!
